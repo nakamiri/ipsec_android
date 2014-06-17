@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/master/!svn/ver/56/android/and_ipsec
+END
+default.properties
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/master/!svn/ver/10/android/and_ipsec/default.properties
+END
+AndroidManifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/master/!svn/ver/15/android/and_ipsec/AndroidManifest.xml
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/master/!svn/ver/10/android/and_ipsec/.project
+END
+proguard.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/master/!svn/ver/10/android/and_ipsec/proguard.cfg
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/master/!svn/ver/15/android/and_ipsec/.classpath
+END

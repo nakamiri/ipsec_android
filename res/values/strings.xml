@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Ipsec!</string>
+    <string name="app_name">ipsec_test</string>
+    <string name="submit">submit</string>
+    <string name="blank"></string>
+    <string name="port">500</string>
+    <string name="ip">172.17.64.126</string>
+    <string name="IpAddr">IpAddr</string>
+    <string name="port_txt">Port</string>
+    <string name="log"></string>
+</resources>
